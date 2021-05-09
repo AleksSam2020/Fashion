@@ -1,0 +1,70 @@
+.personal-page {
+    margin-left: 2%;
+}
+
+.DZMITRY-KUZHALKOV {
+    font-weight: 800;
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+
+.DZMITRY-KUZHALKOV  p {
+    font-family:  'Architects Daughter', cursive;
+    font-weight: 200;
+    font-size: 0.8em;
+}
+
+.DZMITRY-KUZHALKOV  p a{
+    display: block;
+}
+
+.small-image {
+    width: 140px;
+    height: 200px;
+}
+
+.medium-image {
+    width: 265px;
+    height: 195px;
+}
+
+.large-image {
+    width: 300px;
+    height: 200px;
+}
+
+.small-image,
+.medium-image,
+.large-image {
+    margin-right: 1.5%;
+    margin-top: 1%;
+}
+
+.small-image:hover,
+.medium-image:hover,
+.large-image:hover {
+    transform: scale(1.2);
+    box-shadow: 1px 0px 0px 6px #f40000;
+}
+
+
+.personal-page-images {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.photographer-portfolio {
+    font-size: 1em;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+.photographer-portfolio span {
+    margin-right: 7px;
+}
+
+.photographer-portfolio-portrait {
+    font-weight: 700;
+}

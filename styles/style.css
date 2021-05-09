@@ -1,0 +1,19 @@
+@import url(header.css);
+
+@import url(footer.css);
+
+@import url(info.css);
+
+@import url(main.css);
+
+@import url(personal-page.css);
+
+@import url(all-persons.css);
+
+body {
+    margin: 0;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
